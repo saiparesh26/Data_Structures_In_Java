@@ -4,4 +4,5 @@
     <fullyQualifiedTypeName name="com.saiparesh.stack.Stack"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="com.saiparesh.queue.Queue"/>
+    <fullyQualifiedTypeName name="com.saiparesh.singlelinkedlist.Node"/>
 </qualifiedTypeNameHistroy>
