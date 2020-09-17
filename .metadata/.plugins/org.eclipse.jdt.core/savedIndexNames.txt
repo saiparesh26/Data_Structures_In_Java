@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+E:\TU\Placements\Interview\Java\Data_Structures_Algortihms_Java\.metadata\.plugins\org.eclipse.jdt.core
+4210876544.index
+1923098295.index

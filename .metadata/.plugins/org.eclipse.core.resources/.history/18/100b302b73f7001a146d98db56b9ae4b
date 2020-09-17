@@ -1,0 +1,9 @@
+package com.saiparesh.adt;
+
+public class App {
+
+	public static void main(String[] args) {
+		Counter counter = new Counter("Sai");
+	}
+
+}

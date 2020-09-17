@@ -1,0 +1,42 @@
+package com.saiparesh.stack;
+
+public class Stack {
+	
+	private int maxSize;
+	private long[] stackArray;
+	private int top; // Index position of the last item that is placed
+	
+	public Stack(int size) {
+		this.maxSize = size;
+		this.stackArray = new long[maxSize];
+		this.top = -1;  // Since there are not elements initially
+	}
+	
+	public void push(long item) {
+		if (isFull()) {
+			System.out.println("Stack is alrady full");
+		}
+		else {			
+			top++;
+			stackArray[top] = item;
+		}
+	}
+	
+	public long pop() {
+		int old_top = top;
+		top--;
+		return stackArray[old_top];
+	}
+	
+	public long peek() {
+		return stackArray[top];
+	}
+	
+	public boolean isEmpty() {
+		return (top == -1);
+	}
+	
+	public boolean isFull() {
+		return (maxSize -1 == top);
+	}
+}
