@@ -6,4 +6,7 @@
     <fullyQualifiedTypeName name="com.saiparesh.queue.Queue"/>
     <fullyQualifiedTypeName name="com.saiparesh.singlelinkedlist.SinglyLinkedList"/>
     <fullyQualifiedTypeName name="com.saiparesh.singlelinkedlist.Node"/>
+    <fullyQualifiedTypeName name="javax.sound.midi.Soundbank"/>
+    <fullyQualifiedTypeName name="com.saiparesh.doublylinkedlist.Node"/>
+    <fullyQualifiedTypeName name="com.saiparesh.doublylinkedlist.DoublyLinkedList"/>
 </qualifiedTypeNameHistroy>
