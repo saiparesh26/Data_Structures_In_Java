@@ -9,4 +9,5 @@
     <fullyQualifiedTypeName name="javax.sound.midi.Soundbank"/>
     <fullyQualifiedTypeName name="com.saiparesh.doublylinkedlist.Node"/>
     <fullyQualifiedTypeName name="com.saiparesh.doublylinkedlist.DoublyLinkedList"/>
+    <fullyQualifiedTypeName name="com.saiparesh.linearsearch.LinearSearch"/>
 </qualifiedTypeNameHistroy>
