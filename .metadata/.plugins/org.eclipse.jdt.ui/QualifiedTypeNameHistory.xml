@@ -10,4 +10,7 @@
     <fullyQualifiedTypeName name="com.saiparesh.doublylinkedlist.Node"/>
     <fullyQualifiedTypeName name="com.saiparesh.doublylinkedlist.DoublyLinkedList"/>
     <fullyQualifiedTypeName name="com.saiparesh.linearsearch.LinearSearch"/>
+    <fullyQualifiedTypeName name="com.saiparesh.binarysearch.BinarySearch"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javadoc.main.Start"/>
+    <fullyQualifiedTypeName name="com.saiparesh.recursivesearch.RecursiveSearch"/>
 </qualifiedTypeNameHistroy>
