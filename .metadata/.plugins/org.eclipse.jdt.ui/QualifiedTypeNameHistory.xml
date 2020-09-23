@@ -13,4 +13,8 @@
     <fullyQualifiedTypeName name="com.saiparesh.binarysearch.BinarySearch"/>
     <fullyQualifiedTypeName name="com.sun.tools.javadoc.main.Start"/>
     <fullyQualifiedTypeName name="com.saiparesh.recursivesearch.RecursiveSearch"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.bcel.internal.generic.SWAP"/>
+    <fullyQualifiedTypeName name="com.saiparesh.selectionsort.SelectionSort"/>
+    <fullyQualifiedTypeName name="com.saiparesh.insertionsort.InsertionSort"/>
+    <fullyQualifiedTypeName name="com.saiparesh.mergesort.MergeSort"/>
 </qualifiedTypeNameHistroy>
