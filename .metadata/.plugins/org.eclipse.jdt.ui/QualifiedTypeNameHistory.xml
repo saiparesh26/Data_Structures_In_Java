@@ -2,7 +2,6 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="com.saiparesh.adt.Counter"/>
     <fullyQualifiedTypeName name="com.saiparesh.stack.Stack"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="com.saiparesh.queue.Queue"/>
     <fullyQualifiedTypeName name="com.saiparesh.singlelinkedlist.SinglyLinkedList"/>
     <fullyQualifiedTypeName name="com.saiparesh.singlelinkedlist.Node"/>
@@ -17,4 +16,8 @@
     <fullyQualifiedTypeName name="com.saiparesh.selectionsort.SelectionSort"/>
     <fullyQualifiedTypeName name="com.saiparesh.insertionsort.InsertionSort"/>
     <fullyQualifiedTypeName name="com.saiparesh.mergesort.MergeSort"/>
+    <fullyQualifiedTypeName name="com.saiparesh.quicksort.QuickSort"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="sun.util.BuddhistCalendar"/>
+    <fullyQualifiedTypeName name="com.saiparesh.binarysearchtree.Node"/>
 </qualifiedTypeNameHistroy>
